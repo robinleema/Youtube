@@ -15,7 +15,9 @@ PYTHON
 **SKILLS**
 
 Using python code
+
 Using SQL (my sql workbench)
+
 Using Streamlit application
 
 **Visuals**
